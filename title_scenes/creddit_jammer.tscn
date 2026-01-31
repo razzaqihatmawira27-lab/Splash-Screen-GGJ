@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://cqp58hr6t4rg2"]
+
+[ext_resource type="Texture2D" uid="uid://dq7hrva1he7u4" path="res://title_assets/creditjammer.png" id="1_txc85"]
+
+[node name="CredditJammer" type="Node2D" unique_id=850418479]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1361970716]
+
+[node name="CredditScene" type="Sprite2D" parent="CanvasLayer" unique_id=430479776]
+scale = Vector2(0.6, 0.6000001)
+texture = ExtResource("1_txc85")
+centered = false

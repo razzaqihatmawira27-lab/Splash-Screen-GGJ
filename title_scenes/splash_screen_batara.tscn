@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://72r0anfs121i"]
+
+[ext_resource type="Script" uid="uid://cqpculau3f5jh" path="res://title_scripts/splash_screen_batara.gd" id="1_x8jou"]
+[ext_resource type="Texture2D" uid="uid://brwo2qpybwkc8" path="res://title_assets/Sponsor Horizontal.png" id="1_xgdax"]
+
+[node name="SplashScreenBatara" type="Control" unique_id=409774130]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_x8jou")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1105733121]
+
+[node name="SplashBataraImg" type="Sprite2D" parent="." unique_id=2102426178]
+scale = Vector2(0.46028543, 0.33900344)
+texture = ExtResource("1_xgdax")
+centered = false

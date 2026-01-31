@@ -1,0 +1,50 @@
+[gd_scene format=3 uid="uid://co5p4uavk70ea"]
+
+[ext_resource type="Texture2D" uid="uid://boy2aov00dnb2" path="res://title_assets/topengbg.png" id="1_eynmf"]
+[ext_resource type="Texture2D" uid="uid://dj55c6vert6p2" path="res://title_assets/HomeScreen-Character.png" id="2_6c8yc"]
+[ext_resource type="Script" uid="uid://daj6n4wkkgjqd" path="res://title_scripts/batara_image.gd" id="3_vlesy"]
+[ext_resource type="Texture2D" uid="uid://dr1ibjxtjna2o" path="res://title_assets/HomeScreen-title.png" id="4_64qyk"]
+[ext_resource type="Script" uid="uid://tc84acrr60tk" path="res://title_scripts/batara_title.gd" id="5_8up46"]
+[ext_resource type="Texture2D" uid="uid://cutab44ohnvqu" path="res://title_assets/trimmed-image-start.png" id="6_dbmnm"]
+[ext_resource type="Texture2D" uid="uid://qveg84ayk2w4" path="res://title_assets/trimmed-image-exit.png" id="7_8up46"]
+
+[node name="TitleScreen" type="Node2D" unique_id=406737542]
+
+[node name="BackgroundTitle" type="CanvasLayer" parent="." unique_id=810621334]
+
+[node name="ColorBackground" type="Sprite2D" parent="." unique_id=1137735471]
+position = Vector2(1.1920929e-07, 4.7683716e-07)
+scale = Vector2(0.64, 0.72)
+texture = ExtResource("1_eynmf")
+centered = false
+flip_h = true
+
+[node name="BataraImage" type="Sprite2D" parent="." unique_id=1197316616]
+position = Vector2(0, 96)
+scale = Vector2(0.64, 0.72)
+texture = ExtResource("2_6c8yc")
+centered = false
+script = ExtResource("3_vlesy")
+
+[node name="BataraTitle" type="Sprite2D" parent="." unique_id=255372480]
+position = Vector2(0, 8)
+scale = Vector2(0.64, 0.72)
+texture = ExtResource("4_64qyk")
+centered = false
+script = ExtResource("5_8up46")
+
+[node name="BataraStart" type="TextureButton" parent="." unique_id=1438826593]
+offset_left = 163.0
+offset_top = 323.99997
+offset_right = 852.0
+offset_bottom = 503.0
+scale = Vector2(0.47087106, 0.50535727)
+texture_normal = ExtResource("6_dbmnm")
+
+[node name="BataraExit" type="TextureButton" parent="." unique_id=1401204363]
+offset_left = 236.0
+offset_top = 447.99994
+offset_right = 486.0
+offset_bottom = 542.98236
+scale = Vector2(0.65647453, 0.8561012)
+texture_normal = ExtResource("7_8up46")

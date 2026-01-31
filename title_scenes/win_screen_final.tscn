@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://d2c0g1t4mndjr"]
+
+[ext_resource type="Texture2D" uid="uid://b28knf1iuxomv" path="res://title_assets/victory desain.png" id="1_knroj"]
+
+[node name="WinScreenFinal" type="Node2D" unique_id=1312980507]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1814272976]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=996232778]
+scale = Vector2(3.6, 3.6000001)
+texture = ExtResource("1_knroj")
+centered = false
