@@ -1,0 +1,23 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1769845396
+icon.svg::CompressedTexture2D::9150137436462950717::1769844691::1769844720::1::::<><><>0<>0<>8a71e937ade3563c3ad0a79312a03929<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+global_title.gd::GDScript::4180947313431624306::1769845388::0::1::::<>Node<><>0<>0<><>::
+::res://title_assets/::1769850372
+creditjammer.png::CompressedTexture2D::8348800119044705941::1769850372::1769850390::1::::<><><>0<>0<>f0885350a828889029b371bc079a3a67<>res://.godot/imported/creditjammer.png-544d57d4fe454f2d429a183857e2cde4.ctex::
+HomeScreen-Character.png::CompressedTexture2D::7854719718684181373::1769845675::1769845735::1::::<><><>0<>0<>c1346dfd95114152bd8a2cb4c2ecf070<>res://.godot/imported/HomeScreen-Character.png-475ea5ac873e9e93fea21c79ef820a8d.ctex::
+HomeScreen-Exit.png::CompressedTexture2D::1947248875465831527::1769845689::1769845735::1::::<><><>0<>0<>ebc4767912915ff42365bb34bcc7e587<>res://.godot/imported/HomeScreen-Exit.png-8e51ada36f5f1874f221c968b08c7790.ctex::
+HomeScreen-startT1-ezgif.com-crop.png::CompressedTexture2D::6937385857810855738::1769847725::1769847736::1::::<><><>0<>0<>3a85c33f7c6f08cf37f84edf8bcccefe<>res://.godot/imported/HomeScreen-startT1-ezgif.com-crop.png-f6241d0a36ea9920a0aaf4bef2458e76.ctex::
+HomeScreen-startT (1).png::CompressedTexture2D::4873014340964695459::1769845703::1769845735::1::::<><><>0<>0<>9ae2109a666fdc2aca4a51363e2020d4<>res://.godot/imported/HomeScreen-startT (1).png-a743efdc6ef6a751a072348d3275a407.ctex::
+HomeScreen-title.png::CompressedTexture2D::8406634245383909308::1769845716::1769845735::1::::<><><>0<>0<>d4f03b99925e2596a030ce858871095c<>res://.godot/imported/HomeScreen-title.png-51232301ca1f1b119dc52a4f73aeb4dd.ctex::
+Sponsor Horizontal.png::CompressedTexture2D::3625946455101460749::1769849917::1769849923::1::::<><><>0<>0<>889a018862f5673b8de1b592c3fdfd49<>res://.godot/imported/Sponsor Horizontal.png-2dfa759a52e8f473deb034c772a58620.ctex::
+topengbg.png::CompressedTexture2D::3420249688464905337::1769845728::1769845735::1::::<><><>0<>0<>d088e01c36ff89986dd741f2e20cb9a5<>res://.godot/imported/topengbg.png-46f1ad31a97a1983b8472e44ec0d4909.ctex::
+trimmed-image-exit.png::CompressedTexture2D::1166628791880648581::1769848767::1769848770::1::::<><><>0<>0<>dbbdfba1707886f6cf2d162feab67b5e<>res://.godot/imported/trimmed-image-exit.png-aafeb7f30e309d2dc4bc6570a2547e78.ctex::
+trimmed-image-start.png::CompressedTexture2D::6215844771890358752::1769848136::1769848139::1::::<><><>0<>0<>43031a7150741ec585029133e4611843<>res://.godot/imported/trimmed-image-start.png-06b432ef383a9a6b72988f4e9128fadd.ctex::
+victory desain.png::CompressedTexture2D::4350274616225172573::1769849427::1769849430::1::::<><><>0<>0<>325dbf7a931ead4adba73348b6e0bf0b<>res://.godot/imported/victory desain.png-97e61a6d7b9788505c7ef88895491bf8.ctex::
+::res://title_scenes/::1769850183
+splash_screen_batara.tscn::PackedScene::2302858049836045112::1769850183::0::1::::<><><>0<>0<><>::uid://brwo2qpybwkc8::::res://title_assets/Sponsor Horizontal.png
+win_screen_final.tscn::PackedScene::9060019620689453783::1769849550::0::1::::<><><>0<>0<><>::uid://b28knf1iuxomv::::res://title_assets/victory desain.png
+title_screen.tscn::PackedScene::5818380105290984620::1769848926::0::1::::<><><>0<>0<><>::uid://boy2aov00dnb2::::res://title_assets/topengbg.png<>uid://dj55c6vert6p2::::res://title_assets/HomeScreen-Character.png<>uid://daj6n4wkkgjqd::::res://title_scripts/batara_image.gd<>uid://dr1ibjxtjna2o::::res://title_assets/HomeScreen-title.png<>uid://tc84acrr60tk::::res://title_scripts/batara_title.gd<>uid://cutab44ohnvqu::::res://title_assets/trimmed-image-start.png<>uid://qveg84ayk2w4::::res://title_assets/trimmed-image-exit.png
+::res://title_scripts/::1769848926
+batara_image.gd::GDScript::7179748450593180887::1769847226::0::1::::<>Sprite2D<><>0<>0<><>::
+batara_title.gd::GDScript::1339772237301246876::1769848926::0::1::::<>Sprite2D<><>0<>0<><>::

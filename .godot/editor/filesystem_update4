@@ -1,0 +1,8 @@
+res://title_scenes/title_screen.tscn
+res://global_title.gd
+res://title_scripts/batara_image.gd
+res://title_scripts/batara_title.gd
+res://title_scenes/win_screen_final.tscn
+res://title_scenes/creddit_jammer.tscn
+res://title_scenes/splash_screen_batara.tscn
+res://title_scripts/splash_screen_batara.gd
